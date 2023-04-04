@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "rilwanulhuda" => "rilwanulhuda.dev@gmail.com" }
   spec.platform     = :ios, "10.0"
   spec.ios.vendored_frameworks = "OnlineFramework.xcframework"
-  spec.source       = { :http => "https://www.dropbox.com/s/76wi7dn79kox7pv/OnlineFramework.xcframework.zip?dl=1" }
+  spec.source       = { :http => "https://www.dropbox.com/s/26as7s3rpdqzfo6/OnlineFramework.xcframework.zip?dl=1" }
   #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
