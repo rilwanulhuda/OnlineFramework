@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/rilwanulhuda"
   spec.license      = "MIT"
   spec.author             = { "rilwanulhuda" => "rilwanulhuda.dev@gmail.com" }
-  spec.platform     = :ios, "16.1"
+  spec.platform     = :ios, "10.0"
   spec.ios.vendored_frameworks = "OnlineFramework.xcframework"
   spec.source       = { :http => "https://www.dropbox.com/s/76wi7dn79kox7pv/OnlineFramework.xcframework.zip?dl=1" }
   #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
