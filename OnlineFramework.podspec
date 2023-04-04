@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "OnlineFramework"
-  spec.version      = "0.0.9"
+  spec.version      = "0.0.10"
   spec.summary      = "This is short summary"
   spec.description  = "This is a short description"
 

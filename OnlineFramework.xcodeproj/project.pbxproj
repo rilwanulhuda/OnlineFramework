@@ -11,6 +11,7 @@
 		FD0D850C29DC7CB3001E62E4 /* OnlineFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = FD0D850929DC7CB3001E62E4 /* OnlineFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FD0D851629DC7CE0001E62E4 /* HiddenSources.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0D851529DC7CE0001E62E4 /* HiddenSources.swift */; };
 		FD7C76B729DCCB9B003FE0A3 /* SecondClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7C76B629DCCB9B003FE0A3 /* SecondClass.swift */; };
+		FD7C76B929DCED13003FE0A3 /* TestUpdatedClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7C76B829DCED12003FE0A3 /* TestUpdatedClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FD0D850A29DC7CB3001E62E4 /* OnlineFramework.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = OnlineFramework.docc; sourceTree = "<group>"; };
 		FD0D851529DC7CE0001E62E4 /* HiddenSources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiddenSources.swift; sourceTree = "<group>"; };
 		FD7C76B629DCCB9B003FE0A3 /* SecondClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondClass.swift; sourceTree = "<group>"; };
+		FD7C76B829DCED12003FE0A3 /* TestUpdatedClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUpdatedClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				FD0D850A29DC7CB3001E62E4 /* OnlineFramework.docc */,
 				FD0D851529DC7CE0001E62E4 /* HiddenSources.swift */,
 				FD7C76B629DCCB9B003FE0A3 /* SecondClass.swift */,
+				FD7C76B829DCED12003FE0A3 /* TestUpdatedClass.swift */,
 			);
 			path = OnlineFramework;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				FD0D851629DC7CE0001E62E4 /* HiddenSources.swift in Sources */,
 				FD7C76B729DCCB9B003FE0A3 /* SecondClass.swift in Sources */,
+				FD7C76B929DCED13003FE0A3 /* TestUpdatedClass.swift in Sources */,
 				FD0D850B29DC7CB3001E62E4 /* OnlineFramework.docc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
