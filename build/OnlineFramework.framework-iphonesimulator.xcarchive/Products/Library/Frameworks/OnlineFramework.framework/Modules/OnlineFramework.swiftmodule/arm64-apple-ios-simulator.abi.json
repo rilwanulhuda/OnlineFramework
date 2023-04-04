@@ -80,6 +80,26 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "testAddingNewFunction",
+            "printedName": "testAddingNewFunction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15OnlineFramework13HiddenSourcesC21testAddingNewFunctionyyF",
+            "mangledName": "$s15OnlineFramework13HiddenSourcesC21testAddingNewFunctionyyF",
+            "moduleName": "OnlineFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -153,6 +173,16 @@
         "moduleName": "OnlineFramework",
         "declAttributes": [
           "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OnlineFramework",
+        "declAttributes": [
+          "RawDocComment"
         ]
       }
     ],

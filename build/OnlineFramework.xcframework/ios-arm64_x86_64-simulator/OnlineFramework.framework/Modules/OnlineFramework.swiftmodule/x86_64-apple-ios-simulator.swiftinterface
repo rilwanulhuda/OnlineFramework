@@ -11,6 +11,7 @@ public class HiddenSources {
   public init()
   public func firstHiddenFunction() -> Swift.Bool
   public func secondHiddenFunction()
+  public func testAddingNewFunction()
   @objc deinit
 }
 public class SecondClass {

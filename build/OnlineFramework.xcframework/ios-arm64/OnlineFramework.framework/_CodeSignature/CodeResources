@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		5m5fpMhTmQ2zmPIx3q6clINiI28=
+		6lrAXevKsfBn5mNT1rFn/NjkAjc=
 		</data>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Tj9EURiyk22a83fBmjQuegeIjIg=
+		sfrOc3Ualn5Om4BPLnriSZ/7DBI=
 		</data>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Tj9EURiyk22a83fBmjQuegeIjIg=
+		sfrOc3Ualn5Om4BPLnriSZ/7DBI=
 		</data>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nVyN2lJMGjM13NOvybkQn3w0q4I=
+		EigKtxZuNLi/jageVrGTQ8k/cFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,22 +69,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5m5fpMhTmQ2zmPIx3q6clINiI28=
+			6lrAXevKsfBn5mNT1rFn/NjkAjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mO9zjZwtX8/fgvSJAZBrOUXjXttWl60eJ5Q/jIXyIFc=
+			+oVIID0S5V/7coZehABJ0kus0ucuxD3mBK9U/IEzLhs=
 			</data>
 		</dict>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tj9EURiyk22a83fBmjQuegeIjIg=
+			sfrOc3Ualn5Om4BPLnriSZ/7DBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			7L9URvbsqkdkbIRyXMe6wY71bzWnEuwu7CqNBl2lloc=
+			E/0qX217cLdQFLWHoUeOPlNER0dT2EgRpaS9sPO2h5M=
 			</data>
 		</dict>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -102,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tj9EURiyk22a83fBmjQuegeIjIg=
+			sfrOc3Ualn5Om4BPLnriSZ/7DBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			7L9URvbsqkdkbIRyXMe6wY71bzWnEuwu7CqNBl2lloc=
+			E/0qX217cLdQFLWHoUeOPlNER0dT2EgRpaS9sPO2h5M=
 			</data>
 		</dict>
 		<key>Modules/OnlineFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nVyN2lJMGjM13NOvybkQn3w0q4I=
+			EigKtxZuNLi/jageVrGTQ8k/cFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Utz8ZZNLAqetvjHT/sqwDC334WDKWdQVJHUGyeCyddw=
+			4I0swRnBgEKgDCJG1oIM/NqolwKLd8dH8f/o8uuLbJE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
