@@ -204,6 +204,61 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestUpdatedClass",
+        "printedName": "TestUpdatedClass",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestUpdatedClass",
+                "printedName": "OnlineFramework.TestUpdatedClass",
+                "usr": "s:15OnlineFramework16TestUpdatedClassC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15OnlineFramework16TestUpdatedClassCACycfc",
+            "mangledName": "$s15OnlineFramework16TestUpdatedClassCACycfc",
+            "moduleName": "OnlineFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "testUpdatedFunction",
+            "printedName": "testUpdatedFunction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15OnlineFramework16TestUpdatedClassC04testD8FunctionyyF",
+            "mangledName": "$s15OnlineFramework16TestUpdatedClassC04testD8FunctionyyF",
+            "moduleName": "OnlineFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15OnlineFramework16TestUpdatedClassC",
+        "mangledName": "$s15OnlineFramework16TestUpdatedClassC",
+        "moduleName": "OnlineFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
       }
     ],
     "json_format_version": 8

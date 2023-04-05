@@ -20,3 +20,8 @@ public class SecondClass {
   public func secondClassFunction()
   @objc deinit
 }
+public class TestUpdatedClass {
+  public init()
+  public func testUpdatedFunction()
+  @objc deinit
+}

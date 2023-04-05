@@ -7,7 +7,7 @@
 
 import Foundation
 
-class TestUpdatedClass {
+public class TestUpdatedClass {
     public init(){}
     
     public func testUpdatedFunction() {
