@@ -21,4 +21,8 @@ public class HiddenSources {
     public func testAddingNewFunction() {
         print("this is a new function from HiddenSources.swift")
     }
+    
+    public func secondTestAddingNewFunction() {
+        print("secondTestAddingNewFunction")
+    }
 }
