@@ -100,6 +100,26 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "secondTestAddingNewFunction",
+            "printedName": "secondTestAddingNewFunction()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15OnlineFramework13HiddenSourcesC27secondTestAddingNewFunctionyyF",
+            "mangledName": "$s15OnlineFramework13HiddenSourcesC27secondTestAddingNewFunctionyyF",
+            "moduleName": "OnlineFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
